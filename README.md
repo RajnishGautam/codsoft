@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajnishGautam
+- 👋 Hi, I’m @RajnishKumar
 - 👀 I’m interested in coding and cricket 
 - 🌱 I’m currently persuing bachelor degree in Computer Science and Engineering 
 - 💞️ I’m looking to collaborate with good project programmers 
